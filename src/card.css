@@ -1,0 +1,18 @@
+
+.card {
+    width: 300px;
+    height: 300px;
+    /* background: linear-gradient(to right, rgb(196, 182, 28), rgb(198, 16, 122)); */
+    background: linear-gradient(to right, rgb(45, 101, 37), rgb(163, 113, 25));;
+    margin: 10px;
+    padding: .5rem;
+    text-align: center;
+    color: white;
+    box-shadow: 4px 4px 4px #ebeaea;
+    border-radius: 5px;
+    transition: all .3s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
