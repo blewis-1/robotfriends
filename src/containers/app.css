@@ -1,0 +1,12 @@
+.app {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 3rem;
+  padding: 2rem;
+  text-transform: uppercase;
+}

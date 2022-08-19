@@ -1,0 +1,12 @@
+.scroll-wrapper {
+  margin: 10px 0;
+  overflow-y: scroll;
+  border-top: 5px solid black;
+  height: 500px;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none;
+}
+
+.scroll-wrapper::-webkit-scrollbar {
+  display: none;
+}
